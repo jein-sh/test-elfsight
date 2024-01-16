@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.874614e5.js",
-    "static/js/787.0c3f432a.chunk.js": "/static/js/787.0c3f432a.chunk.js",
-    "index.html": "/index.html",
-    "main.874614e5.js.map": "/static/js/main.874614e5.js.map",
-    "787.0c3f432a.chunk.js.map": "/static/js/787.0c3f432a.chunk.js.map"
+    "main.js": "/test-elfsight/static/js/main.8daf256e.js",
+    "static/js/787.0c3f432a.chunk.js": "/test-elfsight/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/test-elfsight/index.html",
+    "main.8daf256e.js.map": "/test-elfsight/static/js/main.8daf256e.js.map",
+    "787.0c3f432a.chunk.js.map": "/test-elfsight/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.874614e5.js"
+    "static/js/main.8daf256e.js"
   ]
 }
